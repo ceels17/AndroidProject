@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DanesList</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello">Hello</string>
+    <string name="list">DanesList</string>
+    <string name="category">Category</string>
+    <string name="defaultNote">Add a note.</string>
+    <string name="randButton">Randomize</string>
+    <string name="defaultName">New Item</string>
+</resources>
+
+
